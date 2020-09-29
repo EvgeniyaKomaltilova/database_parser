@@ -1,0 +1,6320 @@
+[
+    {
+        "id": 1,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 2,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 3,
+        "father": 2,
+        "mother": 1,
+        "litter": 1
+    },
+    {
+        "id": 4,
+        "father": 2,
+        "mother": 1,
+        "litter": 1
+    },
+    {
+        "id": 5,
+        "father": 2,
+        "mother": 1,
+        "litter": 1
+    },
+    {
+        "id": 6,
+        "father": 2,
+        "mother": 1,
+        "litter": 1
+    },
+    {
+        "id": 7,
+        "father": 62,
+        "mother": 23,
+        "litter": 5
+    },
+    {
+        "id": 8,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 9,
+        "father": 24,
+        "mother": 25,
+        "litter": null
+    },
+    {
+        "id": 10,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 11,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 12,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 13,
+        "father": 2,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 14,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 15,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 16,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 17,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 18,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 19,
+        "father": null,
+        "mother": 38,
+        "litter": null
+    },
+    {
+        "id": 20,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 21,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 22,
+        "father": 29,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 23,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 24,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 25,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 26,
+        "father": null,
+        "mother": 23,
+        "litter": null
+    },
+    {
+        "id": 27,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 28,
+        "father": 29,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 29,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 30,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 31,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 32,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 33,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 34,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 35,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 36,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 37,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 38,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 39,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 40,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 41,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 42,
+        "father": 31,
+        "mother": 9,
+        "litter": 4
+    },
+    {
+        "id": 43,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 44,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 45,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 46,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 47,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 48,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 49,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 50,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 51,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 52,
+        "father": 8,
+        "mother": 7,
+        "litter": 2
+    },
+    {
+        "id": 53,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 54,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 55,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 56,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 57,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 58,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 59,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 60,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 61,
+        "father": 30,
+        "mother": 26,
+        "litter": 3
+    },
+    {
+        "id": 62,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 63,
+        "father": 62,
+        "mother": 23,
+        "litter": 5
+    },
+    {
+        "id": 64,
+        "father": 62,
+        "mother": 23,
+        "litter": 5
+    },
+    {
+        "id": 65,
+        "father": 62,
+        "mother": 23,
+        "litter": 5
+    },
+    {
+        "id": 66,
+        "father": 62,
+        "mother": 23,
+        "litter": 5
+    },
+    {
+        "id": 67,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 68,
+        "father": 67,
+        "mother": 11,
+        "litter": 6
+    },
+    {
+        "id": 69,
+        "father": 67,
+        "mother": 11,
+        "litter": 6
+    },
+    {
+        "id": 70,
+        "father": 67,
+        "mother": 11,
+        "litter": 6
+    },
+    {
+        "id": 71,
+        "father": 30,
+        "mother": 26,
+        "litter": 7
+    },
+    {
+        "id": 72,
+        "father": 30,
+        "mother": 26,
+        "litter": 7
+    },
+    {
+        "id": 73,
+        "father": 30,
+        "mother": 26,
+        "litter": 7
+    },
+    {
+        "id": 74,
+        "father": 30,
+        "mother": 26,
+        "litter": 7
+    },
+    {
+        "id": 75,
+        "father": 30,
+        "mother": 26,
+        "litter": 7
+    },
+    {
+        "id": 76,
+        "father": 28,
+        "mother": 12,
+        "litter": 8
+    },
+    {
+        "id": 77,
+        "father": 28,
+        "mother": 12,
+        "litter": 8
+    },
+    {
+        "id": 78,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 79,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 80,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 81,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 82,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 83,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 84,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 85,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 86,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 87,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 88,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 89,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 90,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 91,
+        "father": 78,
+        "mother": 13,
+        "litter": 9
+    },
+    {
+        "id": 92,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 93,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 94,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 95,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 96,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 97,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 98,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 99,
+        "father": 8,
+        "mother": 7,
+        "litter": 10
+    },
+    {
+        "id": 100,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 101,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 102,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 103,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 104,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 105,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 106,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 107,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 108,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 109,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 110,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 111,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 112,
+        "father": 42,
+        "mother": 14,
+        "litter": 11
+    },
+    {
+        "id": 113,
+        "father": 28,
+        "mother": 15,
+        "litter": 12
+    },
+    {
+        "id": 114,
+        "father": 28,
+        "mother": 15,
+        "litter": 12
+    },
+    {
+        "id": 115,
+        "father": 28,
+        "mother": 15,
+        "litter": 12
+    },
+    {
+        "id": 116,
+        "father": 28,
+        "mother": 15,
+        "litter": 12
+    },
+    {
+        "id": 117,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 118,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 119,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 120,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 121,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 122,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 123,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 124,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 125,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 126,
+        "father": 78,
+        "mother": 14,
+        "litter": 13
+    },
+    {
+        "id": 127,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 128,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 129,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 130,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 131,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 132,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 133,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 134,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 135,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 136,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 137,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 138,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 139,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 140,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 141,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 142,
+        "father": 127,
+        "mother": 20,
+        "litter": 14
+    },
+    {
+        "id": 143,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 144,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 145,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 146,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 147,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 148,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 149,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 150,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 151,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 152,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 153,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 154,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 155,
+        "father": 84,
+        "mother": 19,
+        "litter": 15
+    },
+    {
+        "id": 156,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 157,
+        "father": 156,
+        "mother": 21,
+        "litter": 16
+    },
+    {
+        "id": 158,
+        "father": 156,
+        "mother": 21,
+        "litter": 16
+    },
+    {
+        "id": 159,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 160,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 161,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 162,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 163,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 164,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 165,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 166,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 167,
+        "father": 112,
+        "mother": 131,
+        "litter": 17
+    },
+    {
+        "id": 168,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 169,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 170,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 171,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 172,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 173,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 174,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 175,
+        "father": 126,
+        "mother": 131,
+        "litter": 18
+    },
+    {
+        "id": 176,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 177,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 178,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 179,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 180,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 181,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 182,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 183,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 184,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 185,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 186,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 187,
+        "father": 155,
+        "mother": 160,
+        "litter": 19
+    },
+    {
+        "id": 188,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 189,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 190,
+        "father": 189,
+        "mother": 159,
+        "litter": 20
+    },
+    {
+        "id": 191,
+        "father": 189,
+        "mother": 159,
+        "litter": 20
+    },
+    {
+        "id": 192,
+        "father": 189,
+        "mother": 159,
+        "litter": 20
+    },
+    {
+        "id": 193,
+        "father": 189,
+        "mother": 159,
+        "litter": 20
+    },
+    {
+        "id": 194,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 195,
+        "father": 194,
+        "mother": 168,
+        "litter": 21
+    },
+    {
+        "id": 196,
+        "father": 194,
+        "mother": 168,
+        "litter": 21
+    },
+    {
+        "id": 197,
+        "father": 194,
+        "mother": 168,
+        "litter": 21
+    },
+    {
+        "id": 198,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 199,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 200,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 201,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 202,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 203,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 204,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 205,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 206,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 207,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 208,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 209,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 210,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 211,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 212,
+        "father": 141,
+        "mother": 172,
+        "litter": 22
+    },
+    {
+        "id": 213,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 214,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 215,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 216,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 217,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 218,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 219,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 220,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 221,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 222,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 223,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 224,
+        "father": 213,
+        "mother": 178,
+        "litter": 23
+    },
+    {
+        "id": 225,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 226,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 227,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 228,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 229,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 230,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 231,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 232,
+        "father": 225,
+        "mother": 188,
+        "litter": 24
+    },
+    {
+        "id": 233,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 234,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 235,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 236,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 237,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 238,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 239,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 240,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 241,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 242,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 243,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 244,
+        "father": 233,
+        "mother": 193,
+        "litter": 25
+    },
+    {
+        "id": 245,
+        "father": 213,
+        "mother": 159,
+        "litter": 26
+    },
+    {
+        "id": 246,
+        "father": 213,
+        "mother": 159,
+        "litter": 26
+    },
+    {
+        "id": 247,
+        "father": 213,
+        "mother": 159,
+        "litter": 26
+    },
+    {
+        "id": 248,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 249,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 250,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 251,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 252,
+        "father": 195,
+        "mother": 198,
+        "litter": 27
+    },
+    {
+        "id": 253,
+        "father": 195,
+        "mother": 198,
+        "litter": 27
+    },
+    {
+        "id": 254,
+        "father": 195,
+        "mother": 198,
+        "litter": 27
+    },
+    {
+        "id": 255,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 256,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 257,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 258,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 259,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 260,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 261,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 262,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 263,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 264,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 265,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 266,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 267,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 268,
+        "father": 255,
+        "mother": 214,
+        "litter": 29
+    },
+    {
+        "id": 269,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 270,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 271,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 272,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 273,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 274,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 275,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 276,
+        "father": null,
+        "mother": null,
+        "litter": 28
+    },
+    {
+        "id": 277,
+        "father": 251,
+        "mother": 178,
+        "litter": 28
+    },
+    {
+        "id": 278,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 279,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 280,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 281,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 282,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 283,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 284,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 285,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 286,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 287,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 288,
+        "father": 165,
+        "mother": 188,
+        "litter": 30
+    },
+    {
+        "id": 289,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 290,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 291,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 292,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 293,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 294,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 295,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 296,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 297,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 298,
+        "father": 290,
+        "mother": 248,
+        "litter": 31
+    },
+    {
+        "id": 299,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 300,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 301,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 302,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 303,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 304,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 305,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 306,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 307,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 308,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 309,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 310,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 311,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 312,
+        "father": 300,
+        "mother": 270,
+        "litter": 32
+    },
+    {
+        "id": 313,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 314,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 315,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 316,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 317,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 318,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 319,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 320,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 321,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 322,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 323,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 324,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 325,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 326,
+        "father": 301,
+        "mother": 214,
+        "litter": 33
+    },
+    {
+        "id": 327,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 328,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 329,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 330,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 331,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 332,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 333,
+        "father": 206,
+        "mother": 269,
+        "litter": 34
+    },
+    {
+        "id": 334,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 335,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 336,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 337,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 338,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 339,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 340,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 341,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 342,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 343,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 344,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 345,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 346,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 347,
+        "father": 181,
+        "mother": 265,
+        "litter": 35
+    },
+    {
+        "id": 348,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 349,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 350,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 351,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 352,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 353,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 354,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 355,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 356,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 357,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 358,
+        "father": 348,
+        "mother": 282,
+        "litter": 36
+    },
+    {
+        "id": 359,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 360,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 361,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 362,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 363,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 364,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 365,
+        "father": 226,
+        "mother": 270,
+        "litter": 37
+    },
+    {
+        "id": 366,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 367,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 368,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 369,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 370,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 371,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 372,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 373,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 374,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 375,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 376,
+        "father": 366,
+        "mother": 265,
+        "litter": 39
+    },
+    {
+        "id": 377,
+        "father": null,
+        "mother": null,
+        "litter": 39
+    },
+    {
+        "id": 378,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 379,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 380,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 381,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 382,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 383,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 384,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 385,
+        "father": 252,
+        "mother": 299,
+        "litter": 38
+    },
+    {
+        "id": 386,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 387,
+        "father": 186,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 388,
+        "father": 387,
+        "mother": 302,
+        "litter": 40
+    },
+    {
+        "id": 389,
+        "father": 387,
+        "mother": 302,
+        "litter": 40
+    },
+    {
+        "id": 390,
+        "father": 387,
+        "mother": 302,
+        "litter": 40
+    },
+    {
+        "id": 391,
+        "father": 387,
+        "mother": 302,
+        "litter": 40
+    },
+    {
+        "id": 392,
+        "father": 387,
+        "mother": 302,
+        "litter": 40
+    },
+    {
+        "id": 393,
+        "father": 195,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 394,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 395,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 396,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 397,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 398,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 399,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 400,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 401,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 402,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 403,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 404,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 405,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 406,
+        "father": 393,
+        "mother": 294,
+        "litter": 41
+    },
+    {
+        "id": 407,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 408,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 409,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 410,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 411,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 412,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 413,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 414,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 415,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 416,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 417,
+        "father": 407,
+        "mother": 320,
+        "litter": 42
+    },
+    {
+        "id": 418,
+        "father": 186,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 419,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 420,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 421,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 422,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 423,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 424,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 425,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 426,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 427,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 428,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 429,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 430,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 431,
+        "father": 419,
+        "mother": 339,
+        "litter": 44
+    },
+    {
+        "id": 432,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 433,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 434,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 435,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 436,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 437,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 438,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 439,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 440,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 441,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 442,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 443,
+        "father": 418,
+        "mother": 349,
+        "litter": 43
+    },
+    {
+        "id": 444,
+        "father": 195,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 445,
+        "father": 444,
+        "mother": 380,
+        "litter": 45
+    },
+    {
+        "id": 446,
+        "father": 444,
+        "mother": 380,
+        "litter": 45
+    },
+    {
+        "id": 447,
+        "father": 444,
+        "mother": 380,
+        "litter": 45
+    },
+    {
+        "id": 448,
+        "father": 166,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 449,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 450,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 451,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 452,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 453,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 454,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 455,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 456,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 457,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 458,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 459,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 460,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 461,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 462,
+        "father": 274,
+        "mother": 359,
+        "litter": 46
+    },
+    {
+        "id": 463,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 464,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 465,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 466,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 467,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 468,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 469,
+        "father": 448,
+        "mother": 386,
+        "litter": 47
+    },
+    {
+        "id": 470,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 471,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 472,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 473,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 474,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 475,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 476,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 477,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 478,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 479,
+        "father": 471,
+        "mother": 400,
+        "litter": 48
+    },
+    {
+        "id": 480,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 481,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 482,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 483,
+        "father": 482,
+        "mother": 396,
+        "litter": 49
+    },
+    {
+        "id": 484,
+        "father": 482,
+        "mother": 396,
+        "litter": 49
+    },
+    {
+        "id": 485,
+        "father": 482,
+        "mother": 396,
+        "litter": 49
+    },
+    {
+        "id": 486,
+        "father": 482,
+        "mother": 396,
+        "litter": 49
+    },
+    {
+        "id": 487,
+        "father": 388,
+        "mother": 339,
+        "litter": 50
+    },
+    {
+        "id": 488,
+        "father": 388,
+        "mother": 339,
+        "litter": 50
+    },
+    {
+        "id": 489,
+        "father": 388,
+        "mother": 339,
+        "litter": 50
+    },
+    {
+        "id": 490,
+        "father": 388,
+        "mother": 339,
+        "litter": 50
+    },
+    {
+        "id": 491,
+        "father": 388,
+        "mother": 339,
+        "litter": 50
+    },
+    {
+        "id": 492,
+        "father": 388,
+        "mother": 339,
+        "litter": 50
+    },
+    {
+        "id": 493,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 494,
+        "father": 493,
+        "mother": 320,
+        "litter": 51
+    },
+    {
+        "id": 495,
+        "father": 493,
+        "mother": 320,
+        "litter": 51
+    },
+    {
+        "id": 496,
+        "father": 493,
+        "mother": 320,
+        "litter": 51
+    },
+    {
+        "id": 497,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 498,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 499,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 500,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 501,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 502,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 503,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 504,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 505,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 506,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 507,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 508,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 509,
+        "father": 332,
+        "mother": 349,
+        "litter": 52
+    },
+    {
+        "id": 510,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 511,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 512,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 513,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 514,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 515,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 516,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 517,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 518,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 519,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 520,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 521,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 522,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 523,
+        "father": 480,
+        "mother": 380,
+        "litter": 53
+    },
+    {
+        "id": 524,
+        "father": 388,
+        "mother": 425,
+        "litter": 54
+    },
+    {
+        "id": 525,
+        "father": 388,
+        "mother": 425,
+        "litter": 54
+    },
+    {
+        "id": 526,
+        "father": 388,
+        "mother": 425,
+        "litter": 54
+    },
+    {
+        "id": 527,
+        "father": 388,
+        "mother": 425,
+        "litter": 54
+    },
+    {
+        "id": 528,
+        "father": 388,
+        "mother": 425,
+        "litter": 54
+    },
+    {
+        "id": 529,
+        "father": 326,
+        "mother": 386,
+        "litter": 55
+    },
+    {
+        "id": 530,
+        "father": 326,
+        "mother": 386,
+        "litter": 55
+    },
+    {
+        "id": 531,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 532,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 533,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 534,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 535,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 536,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 537,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 538,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 539,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 540,
+        "father": 391,
+        "mother": 426,
+        "litter": 56
+    },
+    {
+        "id": 541,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 542,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 543,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 544,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 545,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 546,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 547,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 548,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 549,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 550,
+        "father": 355,
+        "mother": 424,
+        "litter": 57
+    },
+    {
+        "id": 551,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 552,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 553,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 554,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 555,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 556,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 557,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 558,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 559,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 560,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 561,
+        "father": 444,
+        "mother": 408,
+        "litter": 58
+    },
+    {
+        "id": 562,
+        "father": 234,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 563,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 564,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 565,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 566,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 567,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 568,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 569,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 570,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 571,
+        "father": 562,
+        "mother": 457,
+        "litter": 59
+    },
+    {
+        "id": 572,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 573,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 574,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 575,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 576,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 577,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 578,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 579,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 580,
+        "father": 405,
+        "mother": 445,
+        "litter": 60
+    },
+    {
+        "id": 581,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 582,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 583,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 584,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 585,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 586,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 587,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 588,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 589,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 590,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 591,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 592,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 593,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 594,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 595,
+        "father": 563,
+        "mother": 481,
+        "litter": 61
+    },
+    {
+        "id": 596,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 597,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 598,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 599,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 600,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 601,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 602,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 603,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 604,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 605,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 606,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 607,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 608,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 609,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 610,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 611,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 612,
+        "father": 326,
+        "mother": 396,
+        "litter": 62
+    },
+    {
+        "id": 613,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 614,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 615,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 616,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 617,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 618,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 619,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 620,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 621,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 622,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 623,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 624,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 625,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 626,
+        "father": 324,
+        "mother": 408,
+        "litter": 63
+    },
+    {
+        "id": 627,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 628,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 629,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 630,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 631,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 632,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 633,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 634,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 635,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 636,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 637,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 638,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 639,
+        "father": 627,
+        "mother": 472,
+        "litter": 64
+    },
+    {
+        "id": 640,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 641,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 642,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 643,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 644,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 645,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 646,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 647,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 648,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 649,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 650,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 651,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 652,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 653,
+        "father": 640,
+        "mother": 463,
+        "litter": 65
+    },
+    {
+        "id": 654,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 655,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 656,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 657,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 658,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 659,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 660,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 661,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 662,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 663,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 664,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 665,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 666,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 667,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 668,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 669,
+        "father": 654,
+        "mother": 483,
+        "litter": 66
+    },
+    {
+        "id": 670,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 671,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 672,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 673,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 674,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 675,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 676,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 677,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 678,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 679,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 680,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 681,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 682,
+        "father": 443,
+        "mother": 426,
+        "litter": 67
+    },
+    {
+        "id": 683,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 684,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 685,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 686,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 687,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 688,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 689,
+        "father": 375,
+        "mother": 425,
+        "litter": 68
+    },
+    {
+        "id": 690,
+        "father": 640,
+        "mother": 424,
+        "litter": 69
+    },
+    {
+        "id": 691,
+        "father": 640,
+        "mother": 424,
+        "litter": 69
+    },
+    {
+        "id": 692,
+        "father": 640,
+        "mother": 424,
+        "litter": 69
+    },
+    {
+        "id": 693,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 694,
+        "father": 693,
+        "mother": 445,
+        "litter": 70
+    },
+    {
+        "id": 695,
+        "father": 693,
+        "mother": 445,
+        "litter": 70
+    },
+    {
+        "id": 696,
+        "father": 693,
+        "mother": 445,
+        "litter": 70
+    },
+    {
+        "id": 697,
+        "father": 693,
+        "mother": 445,
+        "litter": 70
+    },
+    {
+        "id": 698,
+        "father": 390,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 699,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 700,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 701,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 702,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 703,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 704,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 705,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 706,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 707,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 708,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 709,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 710,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 711,
+        "father": 699,
+        "mother": 503,
+        "litter": 71
+    },
+    {
+        "id": 712,
+        "father": 448,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 713,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 714,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 715,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 716,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 717,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 718,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 719,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 720,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 721,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 722,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 723,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 724,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 725,
+        "father": 712,
+        "mother": 529,
+        "litter": 72
+    },
+    {
+        "id": 726,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 727,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 728,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 729,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 730,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 731,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 732,
+        "father": 476,
+        "mother": 552,
+        "litter": 73
+    },
+    {
+        "id": 733,
+        "father": 165,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 734,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 735,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 736,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 737,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 738,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 739,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 740,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 741,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 742,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 743,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 744,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 745,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 746,
+        "father": 442,
+        "mother": 542,
+        "litter": 74
+    },
+    {
+        "id": 747,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 748,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 749,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 750,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 751,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 752,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 753,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 754,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 755,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 756,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 757,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 758,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 759,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 760,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 761,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 762,
+        "father": 733,
+        "mother": 531,
+        "litter": 77
+    },
+    {
+        "id": 763,
+        "father": 376,
+        "mother": 525,
+        "litter": 76
+    },
+    {
+        "id": 764,
+        "father": 733,
+        "mother": 531,
+        "litter": 77
+    },
+    {
+        "id": 765,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 766,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 767,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 768,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 769,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 770,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 771,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 772,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 773,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 774,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 775,
+        "father": 404,
+        "mother": 494,
+        "litter": 75
+    },
+    {
+        "id": 776,
+        "father": 404,
+        "mother": 510,
+        "litter": 78
+    },
+    {
+        "id": 777,
+        "father": 404,
+        "mother": 510,
+        "litter": 78
+    },
+    {
+        "id": 778,
+        "father": 404,
+        "mother": 510,
+        "litter": 78
+    },
+    {
+        "id": 779,
+        "father": 404,
+        "mother": 510,
+        "litter": 78
+    },
+    {
+        "id": 780,
+        "father": 404,
+        "mother": 510,
+        "litter": 78
+    },
+    {
+        "id": 781,
+        "father": 404,
+        "mother": 510,
+        "litter": 78
+    },
+    {
+        "id": 782,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 783,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 784,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 785,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 786,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 787,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 788,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 789,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 790,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 791,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 792,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 793,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 794,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 795,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 796,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 797,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 798,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 799,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 800,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 801,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 802,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 803,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 804,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 805,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 806,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 807,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 808,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 809,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 810,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 811,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 812,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 813,
+        "father": 516,
+        "mother": 551,
+        "litter": 80
+    },
+    {
+        "id": 814,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 815,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 816,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 817,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 818,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 819,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 820,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 821,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 822,
+        "father": 460,
+        "mother": 564,
+        "litter": 81
+    },
+    {
+        "id": 823,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 824,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 825,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 826,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 827,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 828,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 829,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 830,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 831,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 832,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 833,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 834,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 835,
+        "father": 799,
+        "mother": 572,
+        "litter": 82
+    },
+    {
+        "id": 836,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 837,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 838,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 839,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 840,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 841,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 842,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 843,
+        "father": 556,
+        "mother": 472,
+        "litter": 83
+    },
+    {
+        "id": 844,
+        "father": 485,
+        "mother": 599,
+        "litter": 84
+    },
+    {
+        "id": 845,
+        "father": 485,
+        "mother": 599,
+        "litter": 84
+    },
+    {
+        "id": 846,
+        "father": 485,
+        "mother": 599,
+        "litter": 84
+    },
+    {
+        "id": 847,
+        "father": 485,
+        "mother": 599,
+        "litter": 84
+    },
+    {
+        "id": 848,
+        "father": 485,
+        "mother": 599,
+        "litter": 84
+    },
+    {
+        "id": 849,
+        "father": 485,
+        "mother": 599,
+        "litter": 84
+    },
+    {
+        "id": 850,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 851,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 852,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 853,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 854,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 855,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 856,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 857,
+        "father": 528,
+        "mother": 503,
+        "litter": 85
+    },
+    {
+        "id": 858,
+        "father": 563,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 859,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 860,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 861,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 862,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 863,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 864,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 865,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 866,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 867,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 868,
+        "father": 858,
+        "mother": 613,
+        "litter": 86
+    },
+    {
+        "id": 869,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 870,
+        "father": 869,
+        "mother": 597,
+        "litter": 87
+    },
+    {
+        "id": 871,
+        "father": 869,
+        "mother": 597,
+        "litter": 87
+    },
+    {
+        "id": 872,
+        "father": 869,
+        "mother": 597,
+        "litter": 87
+    },
+    {
+        "id": 873,
+        "father": 869,
+        "mother": 597,
+        "litter": 87
+    },
+    {
+        "id": 874,
+        "father": 869,
+        "mother": 597,
+        "litter": 87
+    },
+    {
+        "id": 875,
+        "father": 869,
+        "mother": 597,
+        "litter": 87
+    },
+    {
+        "id": 876,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 877,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 878,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 879,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 880,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 881,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 882,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 883,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 884,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 885,
+        "father": 876,
+        "mother": 618,
+        "litter": 88
+    },
+    {
+        "id": 886,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 887,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 888,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 889,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 890,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 891,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 892,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 893,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 894,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 895,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 896,
+        "father": 557,
+        "mother": 630,
+        "litter": 89
+    },
+    {
+        "id": 897,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 898,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 899,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 900,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 901,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 902,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 903,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 904,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 905,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 906,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 907,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 908,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 909,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 910,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 911,
+        "father": 506,
+        "mother": 670,
+        "litter": 90
+    },
+    {
+        "id": 912,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 913,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 914,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 915,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 916,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 917,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 918,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 919,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 920,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 921,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 922,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 923,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 924,
+        "father": null,
+        "mother": 685,
+        "litter": null
+    },
+    {
+        "id": 925,
+        "father": 651,
+        "mother": 694,
+        "litter": 91
+    },
+    {
+        "id": 926,
+        "father": 513,
+        "mother": 658,
+        "litter": 92
+    },
+    {
+        "id": 927,
+        "father": 513,
+        "mother": 658,
+        "litter": 92
+    },
+    {
+        "id": 928,
+        "father": 513,
+        "mother": 658,
+        "litter": 92
+    },
+    {
+        "id": 929,
+        "father": 513,
+        "mother": 658,
+        "litter": 92
+    },
+    {
+        "id": 930,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 931,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 932,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 933,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 934,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 935,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 936,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 937,
+        "father": 376,
+        "mother": 527,
+        "litter": 93
+    },
+    {
+        "id": 938,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 939,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 940,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 941,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 942,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 943,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 944,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 945,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 946,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 947,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 948,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 949,
+        "father": 538,
+        "mother": 564,
+        "litter": 94
+    },
+    {
+        "id": 950,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 951,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 952,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 953,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 954,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 955,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 956,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 957,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 958,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 959,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 960,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 961,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 962,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 963,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 964,
+        "father": 442,
+        "mother": 690,
+        "litter": 95
+    },
+    {
+        "id": 965,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 966,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 967,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 968,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 969,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 970,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 971,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 972,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 973,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 974,
+        "father": 556,
+        "mother": 596,
+        "litter": 96
+    },
+    {
+        "id": 975,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 976,
+        "father": 975,
+        "mother": 583,
+        "litter": 97
+    },
+    {
+        "id": 977,
+        "father": 975,
+        "mother": 583,
+        "litter": 97
+    },
+    {
+        "id": 978,
+        "father": 975,
+        "mother": 583,
+        "litter": 97
+    },
+    {
+        "id": 979,
+        "father": 975,
+        "mother": 583,
+        "litter": 97
+    },
+    {
+        "id": 980,
+        "father": 975,
+        "mother": 583,
+        "litter": 97
+    },
+    {
+        "id": 981,
+        "father": 975,
+        "mother": 583,
+        "litter": 97
+    },
+    {
+        "id": 982,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 983,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 984,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 985,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 986,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 987,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 988,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 989,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 990,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 991,
+        "father": 640,
+        "mother": 698,
+        "litter": 98
+    },
+    {
+        "id": 992,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 993,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 994,
+        "father": null,
+        "mother": null,
+        "litter": null
+    },
+    {
+        "id": 995,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 996,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 997,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 998,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 999,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1000,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1001,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1002,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1003,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1004,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1005,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1006,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1007,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1008,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1009,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1010,
+        "father": 557,
+        "mother": 766,
+        "litter": 99
+    },
+    {
+        "id": 1011,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1012,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1013,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1014,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1015,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1016,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1017,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1018,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1019,
+        "father": 992,
+        "mother": 763,
+        "litter": 100
+    },
+    {
+        "id": 1020,
+        "father": 993,
+        "mother": 531,
+        "litter": 101
+    },
+    {
+        "id": 1021,
+        "father": 993,
+        "mother": 531,
+        "litter": 101
+    },
+    {
+        "id": 1022,
+        "father": 993,
+        "mother": 531,
+        "litter": 101
+    },
+    {
+        "id": 1023,
+        "father": 993,
+        "mother": 531,
+        "litter": 101
+    },
+    {
+        "id": 1024,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1025,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1026,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1027,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1028,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1029,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1030,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1031,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1032,
+        "father": 688,
+        "mother": 753,
+        "litter": 102
+    },
+    {
+        "id": 1033,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1034,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1035,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1036,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1037,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1038,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1039,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1040,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1041,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1042,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1043,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1044,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1045,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1046,
+        "father": 556,
+        "mother": 765,
+        "litter": 103
+    },
+    {
+        "id": 1047,
+        "father": 556,
+        "mother": 716,
+        "litter": 104
+    },
+    {
+        "id": 1048,
+        "father": 556,
+        "mother": 716,
+        "litter": 104
+    },
+    {
+        "id": 1049,
+        "father": 556,
+        "mother": 716,
+        "litter": 104
+    },
+    {
+        "id": 1050,
+        "father": 508,
+        "mother": 457,
+        "litter": 79
+    },
+    {
+        "id": 1051,
+        "father": 556,
+        "mother": 716,
+        "litter": 104
+    },
+    {
+        "id": 1052,
+        "father": 556,
+        "mother": 716,
+        "litter": 104
+    },
+    {
+        "id": 1053,
+        "father": 556,
+        "mother": 716,
+        "litter": 104
+    }
+]
